@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE markables SYSTEM 'markables.dtd'>
+<markables xmlns='www.eml.org/NameSpaces/np'>
+<markable mmax_level='np' id='markable_1' span='word_1..word_2' imported_tag_type='eol' />
+<markable mmax_level='np' id='markable_2' span='word_3..word_4' imported_tag_type='eol' />
+<markable mmax_level='advp' id='markable_1' span='word_8..word_8' imported_tag_type='eol' />
+<markable mmax_level='np' id='markable_3' span='word_12..word_12' imported_tag_type='eol' />
+</markables>

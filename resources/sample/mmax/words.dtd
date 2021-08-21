@@ -1,0 +1,5 @@
+<!ELEMENT words (word*|sentence*)>
+<!ELEMENT word (#PCDATA)>
+<!ATTLIST word id ID #REQUIRED>
+<!ELEMENT sentence (word*|sentence*)>
+<!ATTLIST sentence id ID #REQUIRED>

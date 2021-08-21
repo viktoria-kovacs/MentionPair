@@ -1,0 +1,3 @@
+FileName	Pronoun	Phrase	Word distance	CP distance 2	CP distance	NP distance	MA/PRONOUN/Case	MA/PHRASE/Case	MA/SAME/Case	MA/PRONOUN/Number	MA/PHRASE/Number	MA/SAME/Number	MA/PRONOUN/Person	MA/PHRASE/Person	MA/SAME/Person	PhraseSubj	PronSubj	AgrSubj	PhraseObj	PronObj	AgrObj	Phrase PosTag	Pronoun PosTag	Same PosTag	PhrasePropername	Pronoun phrase	Definite	Phrase word number	Min word number	Max word number	Phase word number 3+	FirstNp	SecondNp	Anaphora
+12	azt	sehogyan	4	0	0	1	Acc	?	?	Sing	?	?	3	?	?	0	0	0	0	1	0	ADV	PRON	0	0	0	?	1	1	0	0	0	0	0
+12	azt	egy nyulat	8	2	1	2	Acc	Acc	1	Sing	Sing	1	3	?	?	0	0	0	1	1	1	NOUN	PRON	0	0	0	Ind	2	0	1	0	0	1	1

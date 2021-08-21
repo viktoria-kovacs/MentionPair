@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE markables SYSTEM 'markables.dtd'>
+<markables xmlns='www.eml.org/NameSpaces/cp'>
+<markable mmax_level='cp' id='markable_1' span='word_1..word_5' imported_tag_type='eol' />
+<markable mmax_level='cp' id='markable_2' span='word_8..word_12' imported_tag_type='eol' />
+<markable mmax_level='cp' id='markable_3' span='word_1..word_13' imported_tag_type='eol' />
+</markables>
